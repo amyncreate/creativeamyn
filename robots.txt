@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amynpixels.netlify.app/sitemap.xml
